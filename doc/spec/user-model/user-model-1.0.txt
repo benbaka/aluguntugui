@@ -1,0 +1,20 @@
+USER MODEL
+
+Title:      User Model
+Version:    1.0
+Status:     Draft
+Authors:    Benjamin Baka
+Signed off: Lorenzo Cabrini
+
+INTRODUCTION
+
+The user model serves as the central component which allows for the ability to
+store information about the users of the serive
+
+
+REQUIRED ATTRIBUTES
+
+1. username
+2. password (hashed)
+3. name
+4. date of birth
